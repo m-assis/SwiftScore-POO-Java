@@ -28,3 +28,5 @@ O projeto está organizado nos seguintes pacotes:
 1. Clone o repositório:
    ```bash
    git clone [https://github.com/m-assis/SwiftScore-POO-Java.git](https://github.com/m-assis/SwiftScore-POO-Java.git)
+
+   Feito com ❤️ e muito café (e Taylor Swift) por Mike Assis.
