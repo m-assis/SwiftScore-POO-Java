@@ -24,9 +24,11 @@ O projeto está organizado nos seguintes pacotes:
 * `br.com.taylor.swiftscore.modelos`: Contém as classes base como `Audio` e `Musica`.
 * `br.com.taylor.swiftscore.principal`: Contém a classe `TheErasMain` para execução do sistema.
 
+   Feito com ❤️ e muito café (e Taylor Swift) por Mike Assis.
+
 ## 📝 Como executar
 1. Clone o repositório:
    ```bash
    git clone [https://github.com/m-assis/SwiftScore-POO-Java.git](https://github.com/m-assis/SwiftScore-POO-Java.git)
 
-   Feito com ❤️ e muito café (e Taylor Swift) por Mike Assis.
+
